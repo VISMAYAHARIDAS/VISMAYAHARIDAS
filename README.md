@@ -9,7 +9,7 @@ A Software Engineer 🚀 in India 😺
 
 
 ### Talking about Personal Stuffs:
-- 🔭 I’m currently working on crossplatform mobile app developemt 
+- 🔭 I’m currently working on crossplatform mobile app development 
 - 🌱 I’m currently learning something cool 😉
 - 👯 I’m looking to collaborate with other developers in community 
 - 💬 Ask me about JavaScript/TypeScript/React-Native
